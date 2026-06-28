@@ -132,6 +132,13 @@ These visualizations help summarize the impact of wording and benefit-level chan
 
 ---
 
+## 📸 Project Screenshots
+
+### Excel Policy Report
+![Excel Policy Report](images/Policy_Report.png)
+
+### Coverage Amount Change Visualization
+![Coverage Amount Change Visualization](images/Coverage_Visualization.png)
 ## 📤 Output
 
 The final output is an Excel report:
